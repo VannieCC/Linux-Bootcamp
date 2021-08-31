@@ -1,1 +1,2 @@
+cat log.txt | grep INFO | wc -l
 147
