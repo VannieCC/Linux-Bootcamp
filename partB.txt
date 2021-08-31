@@ -1,2 +1,1 @@
-cat log.txt | grep INFO | wc
-    362    2247   22923
+147
