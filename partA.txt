@@ -1,0 +1,43 @@
+/u/yvonne/cs429:
+total 8
+drwx------ 5 yvonne under 4096 Aug 31 10:29 writing
+drwx------ 7 yvonne under 4096 Aug 31 10:28 projects
+
+/u/yvonne/cs429/writing:
+total 12
+drwx------ 2 yvonne under 4096 Aug 31 10:29 task3
+drwx------ 2 yvonne under 4096 Aug 31 10:29 task2
+drwx------ 2 yvonne under 4096 Aug 31 10:29 task1
+
+/u/yvonne/cs429/writing/task3:
+total 0
+
+/u/yvonne/cs429/writing/task2:
+total 0
+
+/u/yvonne/cs429/writing/task1:
+total 0
+
+/u/yvonne/cs429/projects:
+total 20
+drwx------ 2 yvonne under 4096 Aug 31 10:28 proj5
+drwx------ 2 yvonne under 4096 Aug 31 10:28 proj4
+drwx------ 2 yvonne under 4096 Aug 31 10:28 proj3
+drwx------ 2 yvonne under 4096 Aug 31 10:28 proj2
+drwx------ 3 yvonne under 4096 Aug 31 10:36 proj1
+
+/u/yvonne/cs429/projects/proj5:
+total 0
+
+/u/yvonne/cs429/projects/proj4:
+total 0
+
+/u/yvonne/cs429/projects/proj3:
+total 0
+
+/u/yvonne/cs429/projects/proj2:
+total 0
+
+/u/yvonne/cs429/projects/proj1:
+total 0
+-rw------- 1 yvonne under 0 Aug 31 10:37 partA.txt
